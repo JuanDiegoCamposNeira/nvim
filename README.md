@@ -11,12 +11,17 @@
 5. Clone this repo inside: 
   - <code> git clone < this repo > </code> 
 
-## Configurations
-1. vim-plug
+## Plugin manager 
+### Vim-plug
   - <a href="https://github.com/junegunn/vim-plug"> Install Vim-Plug </a> 
   - <code> nvim init.vim </code> 
   - <code> :PlugInstall </code> 
   - (Thanks to the remap) <code>< space >< enter ></code> (to source the file) 
+ 
+## Plugins
+1. Telescope 
+2. Lsp 
+3. Lua
   
 ## Themes installed
 - Vim airline
