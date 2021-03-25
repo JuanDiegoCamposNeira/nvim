@@ -25,3 +25,4 @@
   
 ## Themes installed
 - Vim airline
+- Gruvbox
