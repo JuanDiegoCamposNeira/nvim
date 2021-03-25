@@ -1,3 +1,10 @@
+" Syntax
+syntax on
+
+" Colors for nvim 
+set t_Co=256
+colorscheme gruvbox 
+
 " Number lines
 set relativenumber
 set nu
@@ -7,15 +14,12 @@ set tabstop=4 softtabstop=4
 set shiftwidth=4
 set expandtab
 
-" Type 
+" Typing options 
 set smartindent
 set nowrap
 
 " Search
 set incsearch
-set nohlsearch 
-
-set termguicolors
 
 set scrolloff=8 
 

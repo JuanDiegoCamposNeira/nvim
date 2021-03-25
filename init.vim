@@ -23,6 +23,7 @@ Plug 'phanviet/vim-monokai-pro'
 Plug 'flazz/vim-colorschemes'
 Plug 'chriskempson/base16-vim'
 Plug 'dracula/vim', { 'as': 'dracula' }
+Plug 'lifepillar/vim-solarized8'
 
 " Airline 
 Plug 'vim-airline/vim-airline'
@@ -30,24 +31,12 @@ Plug 'vim-airline/vim-airline-themes'
 
 call plug#end()
 
+" Color scheme 
+let g:solarized_termcolors=256
 
 "------------    Airline theme    -------------
-" enable tabline
-let g:airline#extensions#tabline#enabled = 1
-let g:airline#extensions#tabline#left_sep = ''
-let g:airline#extensions#tabline#left_alt_sep = ''
-let g:airline#extensions#tabline#right_sep = ''
-let g:airline#extensions#tabline#right_alt_sep = ''
-
-" enable powerline fonts
-let g:airline_powerline_fonts = 1
-let g:airline_left_sep = '>'
-let g:airline_right_sep = '<'
-
-let g:airline_detect_paste=1
-
-" Switch to your current theme
-let g:airline_theme = 'simple'
+" Set the font to powerline
+let g:airline_powerline_fonts=1
 "----------------------------------------------
 
 
