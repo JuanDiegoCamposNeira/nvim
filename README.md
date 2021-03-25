@@ -1,6 +1,6 @@
 # nvim-config
 ## How to install it 
-1. <a href="https://brew.sh"> Install Homebrew </a> 
+1. <a href="https://brew.sh"> Install Homebrew </a> (You need to have admin privileges) 
 2. Install neovim : 
   - <code> brew install neovim </code> 
 3. Create folders to add nvim configurations : 
@@ -13,7 +13,7 @@
 
 ## Plugin manager 
 ### Vim-plug
-  - <a href="https://github.com/junegunn/vim-plug"> Install Vim-Plug </a> 
+  - <a href="https://github.com/junegunn/vim-plug" target="_blank"> Install Vim-Plug </a> 
   - <code> nvim init.vim </code> 
   - <code> :PlugInstall </code> 
   - (Thanks to the remap) <code>< space >< enter ></code> (to source the file) 
