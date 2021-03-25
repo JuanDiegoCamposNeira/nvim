@@ -1,6 +1,6 @@
 # nvim-config
 ## How to install it 
-1. <a href="https://brew.sh"> Install Homebrew </a> (You need to have admin privileges) 
+1. <a href="https://brew.sh" target="_blank"> Install Homebrew </a> (You need to have admin privileges) 
 2. Install neovim : 
   - <code> brew install neovim </code> 
 3. Create folders to add nvim configurations : 
