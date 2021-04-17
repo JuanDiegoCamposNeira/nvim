@@ -5,9 +5,9 @@
   - <code> brew install neovim </code> 
 3. Create folders to add nvim configurations : 
   - <code> cd ~ </code>
-  - <code> mkdir .config/ </code>
+  - <code> mkdir .config/nvim </code>
 4. Navigate to necessary folders : 
-  - <code> cd /config/ </code>
+  - <code> cd /.config/nvim </code>
 5. Clone this repo inside: 
   - <code> git clone < this repo > </code> 
 

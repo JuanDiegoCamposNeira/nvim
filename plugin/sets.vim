@@ -26,3 +26,6 @@ set scrolloff=8
 set cmdheight=1 
 
 set colorcolumn=80
+
+" To copy and paste to the clipboard
+set clipboard=unnamedplus
