@@ -7,7 +7,7 @@
   - <code> cd ~ </code>
   - <code> mkdir .config/ </code>
 4. Navigate to necessary folders : 
-  - <code> cd /.config/ </code>
+  - <code> cd ~/.config/ </code>
 5. Clone this repo inside: 
   - <code> git clone < this repo > </code> 
 
